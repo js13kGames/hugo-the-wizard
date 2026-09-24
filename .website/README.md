@@ -1,4 +1,7 @@
 ---
+genres:
+  - roguelike
+  - strategy
 post: https://curtastic.com/hugo/postmortem.html
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
